@@ -4,4 +4,4 @@
 
 Part 1
 ---------
-![https://github.com/qianduanXIAOHAOZI/XinAoSaiBiJi/blob/master/%E7%AC%94%E8%AE%B01.md][记忆类知识点]
+[https://github.com/qianduanXIAOHAOZI/XinAoSaiBiJi/blob/master/%E7%AC%94%E8%AE%B01.md][记忆类知识点]
